@@ -9,11 +9,11 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "Team-Sylheti",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100002191460189",
+    "100002191460189"
   ],
   "ADMINBOT": [
     "100000959749712",
